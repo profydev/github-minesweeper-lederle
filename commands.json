@@ -35,6 +35,7 @@
     "clear D1",
     "clear A1",
     "flag B1",
-    "clear C1"
+    "clear C1",
+    "end"
   ]
 }
